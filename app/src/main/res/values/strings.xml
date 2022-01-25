@@ -1,0 +1,6 @@
+<resources>
+    <string name="id">ID:</string>
+    <string name="name">Name:</string>
+    <string name="list_id">List ID:</string>
+    <string name="instructions">Sorted by ListID, then Name: </string>
+</resources>
